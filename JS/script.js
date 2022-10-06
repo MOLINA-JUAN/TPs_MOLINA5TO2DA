@@ -20,3 +20,12 @@ function mul (an,bn){ //funcion de la multiltiplicacion
     return an * bn;
 }
 //#endregion
+//#region 
+console.log(sumar(an,bn));
+console.log(restar(an,bn));
+console.log(div(an,bn));
+console.log(mul(an,bn));
+console.log(nombre);
+console.log(compraJ);
+console.log(precioA);
+//#endregion
