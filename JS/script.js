@@ -29,3 +29,8 @@ console.log(nombre);
 console.log(compraJ);
 console.log(precioA);
 //#endregion
+//#region 
+for(x=0;x<4;x++){
+    console.log(array[x]);
+}
+//#endregion
